@@ -3,5 +3,13 @@
 
 
 ## Le simulateur
-Ouvrez les fichiers [requirements](./requirements.txt)
+Créer un dossier pour les fichiers [requirements.txt](./requirements.txt), [F1_Data.csv](./F1_Data.csv), [prediction.py](./prediction.py).
+Puis ouvrir le dossier dans votre éditeur de code (VSCode ou PyCharm)
+
 [lien](https://lookerstudio.google.com/reporting/fd04ff46-a9a6-4ee1-b47b-832815759fbb)
+
+
+
+```
+def
+```
